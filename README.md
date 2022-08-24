@@ -6,7 +6,7 @@ At the end of the project, the results of the trained Generator are presented to
 
 ---
 
-**Dataset:** (Large-scale CelebFaces Attributes (CelebA) Dataset)[http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html]
+**Dataset:** [Large-scale CelebFaces Attributes (CelebA) Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 ---
 ## Model Architechture:
